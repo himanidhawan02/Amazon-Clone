@@ -1,0 +1,3 @@
+1. Cloned amazon.com(Global version) not amazon.in (Indian version).
+2. To display copyright free icons on our website (icons including globe, dollar, cart etc), website called Font Awesome is used. 
+3. cdn.js website to display icons on the website. CDN (Content delivery Network) does so by eastablishing a connection between our PC and the nearest server that holds a copy of that data (here, icons) so that it gets loaded on the website asap. For this, simple copy paste the first css link on cdn.js->libraries->font-awesome in the header section of HTML page.
